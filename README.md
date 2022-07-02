@@ -1,3 +1,3 @@
-# typescript-kotbhu
+# typescript-playground
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-kotbhu)
